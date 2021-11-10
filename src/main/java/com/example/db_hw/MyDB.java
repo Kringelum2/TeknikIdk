@@ -13,6 +13,7 @@ public class MyDB {
     String tableName = "owners";
     List<String > persons = new ArrayList();
 
+    // Helt perfekt b
     public MyDB(){
         connectAndQuery();
     }
